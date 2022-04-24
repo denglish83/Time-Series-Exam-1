@@ -1,3 +1,2 @@
-# Time-Series-Exam-1
-
-Daily code from Time Series Exam 1
+# Time-Series-Final-Project
+Daily code from Time Series Final Project
